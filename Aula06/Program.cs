@@ -10,13 +10,14 @@
 
             int result = numero % 2;
 
-            if(result == 0)  
+            if (result == 0)
             {
-               Console.WriteLine("O numero é par");
+                Console.WriteLine("O numero é par");
             }
             else
             {
                 Console.WriteLine("O numero é impar");
             }
+        }
     }
 }
